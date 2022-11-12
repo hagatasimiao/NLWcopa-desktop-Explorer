@@ -6,5 +6,5 @@ HTML e CSS
 JavaScript
 Git e Github
 
-<img src = "https://github.com/hagatasimiao/NLWcopa-desktop-Explorer/blob/main/imgProject/amostraProjeto.png" width="120" />
+<img src = "https://github.com/hagatasimiao/NLWcopa-desktop-Explorer/blob/main/imgProject/amostraProjeto.png" />
 
